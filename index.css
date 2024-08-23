@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+#outputtext{
+    margin: auto;
+    height: 250px;
+    width: 500px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+#inputtext{
+    position: relative;
+    margin: auto;
+    margin-left: 48px;
+    height: 250px;
+    width: 500px;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+#button{
+    position: relative;
+}
